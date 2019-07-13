@@ -1,0 +1,21 @@
+body {
+    background-image: url('https://gulfcoastkayak.com/wp-content/uploads/2012/12/backround.jpg');
+    background-position: cover;
+}
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 55px;
+    text-align: center;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: gray;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+.top{
+    align-content: center;
+}
